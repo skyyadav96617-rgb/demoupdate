@@ -1,0 +1,16 @@
+/* Change text color and size */
+p {
+  color: blue;
+  font-size: 18px;
+}
+
+/* Add background and padding */
+div {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+/* Make text bold */
+h1 {
+  font-weight: bold;
+}
